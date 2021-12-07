@@ -1,4 +1,5 @@
 import socket, time
+from telethon import TelegramClient, events, sync
 from datetime import datetime
 from functools import reduce
 
